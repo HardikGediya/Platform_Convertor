@@ -1,0 +1,1 @@
+String platformConvertorApp = "Platform Convertor App";
